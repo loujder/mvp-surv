@@ -1,4 +1,0 @@
-1. cd frontend
-2. npm install
-3. cd ...
-4. docker compose up —build
